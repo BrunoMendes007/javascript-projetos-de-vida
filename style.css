@@ -90,6 +90,12 @@ text-align:center;
 color:var(--verde);
 text-transform:uppercase;
 }
+.contador{
+    font-size:20px;
+    text-align: center;
+    justify-content: center;
+    flex-wrap;
+}
     
 
 @media screen and (min-width: 768px){
